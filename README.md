@@ -1,6 +1,7 @@
 # Repositório de Scripts para Sistemas Operacionais e Tarefas
 
 Coleção de scripts úteis para automatizar tarefas em diversos sistemas operacionais.
+```
                      $$$                       
                     $   $                      
                      $$$                       
@@ -40,3 +41,4 @@ $   $$$$    $  $                     $   $ $$ $
 $$$    $   $$  $                     $$  $ $  $
 $   $  $  $$   $                      $  $$$  $
 $     $$ $$    $               $$$    $  $ $  $
+```
